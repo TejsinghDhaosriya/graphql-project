@@ -15,5 +15,5 @@ const server = new GraphQLServer({
 });
 
 server.start(() => {
-  console.log('Bhiya chal gaya!');
+  console.log('starting at 4000');
 });
